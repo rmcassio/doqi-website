@@ -7,13 +7,13 @@
 
 <div class="flex">
   <!-- Left Side (Graphic) -->
-  <div class="w-1/2 bg-gray-200">
+  <div class="w-1/3 md:w-1/2 bg-gray-100">
     <!-- Replace with your graphic or image -->
     <!-- <img src="your-image-url" alt="Graphic" class="w-full h-auto" /> -->
   </div>
 
   <!-- Right Side (Text and Buttons) -->
-  <div class="w-1/2 p-8">
+  <div class="w-2/3 md:w-1/2 p-8">
     <h1 class="text-3xl font-bold mb-4">
       A gestão do seu negócio pode ser simples
     </h1>
@@ -32,7 +32,7 @@
 <!-- Additional Sections (e.g., Integration with E-commerce Platforms) -->
 <div class="flex mt-8">
   <!-- Left Side (Integration Text) -->
-  <div class="w-1/2 p-8">
+  <div class="w-2/3 md:w-1/2 p-8">
     <h2 class="text-xl font-semibold mb-4">
       Integração com plataformas de ecommerce
     </h2>
@@ -46,7 +46,7 @@
   </div>
 
   <!-- Right Side (Platform Icons) -->
-  <div class="w-1/2 bg-gray-200">
+  <div class="w-1/3 md:w-1/2 bg-gray-100">
     <!-- Replace with your graphic or image -->
     <!-- <img src="your-image-url" alt="Graphic" class="w-full h-auto" /> -->
   </div>
@@ -54,13 +54,13 @@
 
 <div class="flex">
   <!-- Left Side (Graphic) -->
-  <div class="w-1/2 bg-gray-200">
+  <div class="w-1/3 md:w-1/2 bg-gray-100">
     <!-- Replace with your graphic or image -->
     <!-- <img src="your-image-url" alt="Graphic" class="w-full h-auto" /> -->
   </div>
 
   <!-- Right Side (Text and Buttons) -->
-  <div class="w-1/2 p-8">
+  <div class="w-2/3 md:w-1/2 p-8">
     <h1 class="text-3xl font-bold mb-4">
       A gestão do seu negócio pode ser simples
     </h1>
@@ -78,7 +78,7 @@
 
 <div class="flex mt-8">
   <!-- Left Side (Integration Text) -->
-  <div class="w-1/2 p-8">
+  <div class="w-2/3 md:w-1/2 p-8">
     <h2 class="text-xl font-semibold mb-4">
       Integração com plataformas de ecommerce
     </h2>
@@ -92,7 +92,7 @@
   </div>
 
   <!-- Right Side (Platform Icons) -->
-  <div class="w-1/2 bg-gray-200">
+  <div class="w-1/3 md:w-1/2 bg-gray-100">
     <!-- Replace with your graphic or image -->
     <!-- <img src="your-image-url" alt="Graphic" class="w-full h-auto" /> -->
   </div>

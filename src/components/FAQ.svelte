@@ -72,7 +72,7 @@
 
 <div class="bg-red-500 p-4">
   <h2 class="text-white text-2xl font-semibold mb-4">Perguntas frequentes</h2>
-  <div class="grid grid-cols-2 gap-1">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-1">
     {#each faqItems as item, index}
       <div class="collapse collapse-arrow">
         <input
