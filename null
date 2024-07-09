@@ -5,17 +5,17 @@
 		<link rel="icon" href="/doqi-website/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
-		<link rel="modulepreload" href="/doqi-website/_app/immutable/entry/start.BarI5Voo.js">
-		<link rel="modulepreload" href="/doqi-website/_app/immutable/chunks/entry.Bja_lxkR.js">
+		<link rel="modulepreload" href="/doqi-website/_app/immutable/entry/start.BOZ5MTzD.js">
+		<link rel="modulepreload" href="/doqi-website/_app/immutable/chunks/entry.C0bMPSI8.js">
 		<link rel="modulepreload" href="/doqi-website/_app/immutable/chunks/scheduler.Ce_0Mfso.js">
-		<link rel="modulepreload" href="/doqi-website/_app/immutable/entry/app.BEDu8BH7.js">
+		<link rel="modulepreload" href="/doqi-website/_app/immutable/entry/app.CUhobpSV.js">
 		<link rel="modulepreload" href="/doqi-website/_app/immutable/chunks/index.JHzK5D0k.js">
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_vbd5cm = {
+					__sveltekit_1760250 = {
 						base: "/doqi-website",
 						assets: "/doqi-website"
 					};
@@ -23,8 +23,8 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/doqi-website/_app/immutable/entry/start.BarI5Voo.js"),
-						import("/doqi-website/_app/immutable/entry/app.BEDu8BH7.js")
+						import("/doqi-website/_app/immutable/entry/start.BOZ5MTzD.js"),
+						import("/doqi-website/_app/immutable/entry/app.CUhobpSV.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
