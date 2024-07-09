@@ -14,7 +14,7 @@ const config = {
       fallback: "null",
     }),
     paths: {
-      base: process.env.NODE_ENV === "production" ? "/doqi_site" : "",
+      base: process.env.NODE_ENV === "production" ? "/doqi-website" : "",
     },
   },
 };
