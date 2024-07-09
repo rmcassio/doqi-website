@@ -1,6 +1,8 @@
 <script lang="ts">
   import NavButton from "./NavButton.svelte";
 
+  import { base } from "$app/paths";
+
   let isOpen: boolean = false;
 
   function toggleDrawer() {
@@ -14,7 +16,7 @@
 
 <nav class=" fixed top-0 w-full bg-white shadow-lg z-50 px-4">
   <div class="container mx-auto flex items-center justify-between py-3 sm:py-2">
-    <a href="/doqi-website" class="text-3xl font-bold text-red-500">DOQI</a>
+    <a href="{base}/" class="text-3xl font-bold text-red-500">DOQI</a>
     <NavButton />
     <div class="md:hidden">
       <button on:click={toggleDrawer} class="focus:outline-none">
